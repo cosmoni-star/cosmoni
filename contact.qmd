@@ -1,0 +1,21 @@
+---
+title: "Contact"
+---
+
+For research-related inquiries, please contact me by email.
+
+## Affiliation
+
+Department of Social Welfare\
+Kyungpook National University\
+Daegu, South Korea
+
+## Email
+
+cosmoni\@knu.ac.kr
+
+## Links
+
+- GitHub: <https://github.com/your-github-id>
+- ORCID: <https://orcid.org/your-orcid-id>
+- Google Scholar: <https://scholar.google.com/>

@@ -1,0 +1,26 @@
+---
+title: "cosmoni"
+---
+
+![](images/profile.jpg){width=250}
+
+# Seungah Seo
+
+I am a Ph.D. student in social welfare.
+
+At the center of my work is human action — action that carries a plurality of meanings, relations, and institutional conditions that cannot be reduced to any single factor. I am interested in what gets lost when “the social” is explained through a single cause or through individuals alone. I look for these irreducible layers across emotion, social frailty, and institutional practice.
+
+## Research Interests
+
+- Emotion and relationship in later life
+- Frailty and social frailty
+- Institutions and practice in social policy
+
+## Current Work
+
+- **Social frailty** — early-stage work toward a critical review of how the “social” in social frailty is conceptualized, and what individual-level measures leave out
+- **Emotion in later-life narratives** — a text analysis of how older adults express emotion and relationship in oral life histories
+- **Institutional decoupling in social policy** — an analysis of the gap between formal policy and actual practice, reconceptualizing decoupling as a matter of action rather than only as formal conformity or strategic evasion
+- **Youth suicide prevention** — qualitative research on service access, care discontinuities, and institutional gaps among young adults at high risk of suicide; presented at APHA 2026
+
+

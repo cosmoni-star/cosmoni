@@ -1,0 +1,17 @@
+---
+title: "Publications"
+---
+
+This page lists selected publications, manuscripts, presentations, and research outputs.
+
+## Journal Articles
+
+- **Seo, S., & Kim, Y. (2025).** Self-care and health literacy among older adults using the Individualized Support Service for Older Adults: The mediating role of self-efficacy. *Korean Journal of Gerontological Social Welfare, 80*(4), 281–307. <https://doi.org/10.21194/kjgsw.80.4.202512.281>
+
+## Research Reports
+
+- **Choi, K., Kim, J. E., Seo, S., Bae, J., & Hwang, S. (2025).** *Support measures for young people at high risk of suicide who have experienced abuse and violence* \[Research report No. 2025-238\]. \[Korean\]
+
+## Conference Presentations
+
+- **Seo, S., Bae, J., Hwang, S., An, S., Choi, K., & Kim, J. E. (2026).** Improving public service access for high-risk suicidal youth with abuse histories in South Korea: Barriers and facilitators from a qualitative study. *APHA 2026 Annual Meeting and Expo*, San Antonio, TX, United States.

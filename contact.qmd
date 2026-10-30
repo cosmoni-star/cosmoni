@@ -16,6 +16,4 @@ cosmoni\@knu.ac.kr
 
 ## Links
 
-- GitHub: <https://github.com/your-github-id>
-- ORCID: <https://orcid.org/your-orcid-id>
-- Google Scholar: <https://scholar.google.com/>
+- GitHub: <https://github.com/cosmoni-star>

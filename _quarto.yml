@@ -3,17 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "cosmoni"
+  title: "Seungah Seo"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
-      - href: research.qmd
-        text: Research
-      - href: projects.qmd
-        text: Projects
       - href: publications.qmd
         text: Publications
       - href: contact.qmd

@@ -1,12 +1,18 @@
 ---
-title: "cosmoni"
+title: "Seungah Seo"
 ---
+
+::: {.callout-note appearance="simple"}
+## APHA 2026 · San Antonio, Nov. 3
+
+**Improving Public Service Access for High-Risk Suicidal Youth with Abuse Histories in South Korea: Barriers and Facilitators from a Qualitative Study**
+
+Young adults with histories of abuse and violence encountered multiple public services across the life course, but using a service did not necessarily lead to continuous support. Questions about the study are welcome at [cosmoni\@knu.ac.kr](mailto:cosmoni@knu.ac.kr).
+:::
 
 ![](images/profile.jpg){width=250}
 
-# Seungah Seo
-
-I am a Ph.D. student in social welfare.
+I am a Ph.D. student in social welfare at Kyungpook National University, South Korea.
 
 At the center of my work is human action — action that carries a plurality of meanings, relations, and institutional conditions that cannot be reduced to any single factor. I am interested in what gets lost when “the social” is explained through a single cause or through individuals alone. I look for these irreducible layers across emotion, social frailty, and institutional practice.
 
@@ -15,6 +21,7 @@ At the center of my work is human action — action that carries a plurality of 
 - Emotion and relationship in later life
 - Frailty and social frailty
 - Institutions and practice in social policy
+- Service access and continuity of care for young people
 
 ## Current Work
 

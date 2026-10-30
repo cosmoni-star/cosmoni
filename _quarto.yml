@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - files/*.pdf
 
 website:
   title: "Seungah Seo"
@@ -8,6 +10,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: talks.qmd
+        text: Talks
       - href: publications.qmd
         text: Publications
       - href: contact.qmd

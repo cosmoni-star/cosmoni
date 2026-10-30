@@ -2,7 +2,7 @@
 title: "Publications"
 ---
 
-This page lists selected publications, manuscripts, presentations, and research outputs.
+This page lists selected publications and research reports. Conference presentations are listed under [Talks](talks.qmd).
 
 ## Journal Articles
 
@@ -11,7 +11,3 @@ This page lists selected publications, manuscripts, presentations, and research 
 ## Research Reports
 
 - **Choi, K., Kim, J. E., Seo, S., Bae, J., & Hwang, S. (2025).** *Support measures for young people at high risk of suicide who have experienced abuse and violence* \[Research report No. 2025-238\]. Korea Foundation for Suicide Prevention. \[Korean\]
-
-## Conference Presentations
-
-- **Seo, S., Bae, J., Hwang, S., An, S., Choi, K., & Kim, J. E. (2026).** Improving public service access for high-risk suicidal youth with abuse histories in South Korea: Barriers and facilitators from a qualitative study. *APHA 2026 Annual Meeting and Expo*, San Antonio, TX, United States.

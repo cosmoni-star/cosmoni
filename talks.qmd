@@ -1,0 +1,27 @@
+---
+title: "Talks"
+---
+
+## APHA 2026 Annual Meeting and Expo
+
+**Improving Public Service Access for High-Risk Suicidal Youth with Abuse Histories in South Korea: Barriers and Facilitators from a Qualitative Study**
+
+Seungah Seo, Jaeik Bae, Sebin Hwang, Seongho An, Kwonho Choi, and Jieun Kim\
+Oral presentation · San Antonio, TX · November 3, 2026
+
+[Slides (PDF)](files/APHA2026_Seo_slides.pdf){.btn .btn-outline-primary .btn-sm}
+
+### Summary
+
+South Korea has the highest suicide rate among OECD countries, and young people who have experienced abuse or violence are at particularly high risk. Yet little is known about how they actually reach, and stay connected to, public services.
+
+We conducted in-depth interviews with 25 young adults aged 19 to 34 who had experienced abuse or violence and reported suicidal ideation or attempts in the past year, and three focus groups with 13 professionals. Thematic analysis focused on service access, continuity of care, inter-agency linkage, and care discontinuities.
+
+Participants encountered multiple public services across the life course, but using a service did not necessarily lead to continuous support.
+
+- **Facilitators:** safe and approachable counseling spaces in schools; low-cost or free mental health services; rapid linkage to emergency shelters
+- **Barriers:** heightened risk after parents were notified; a "service cliff" in the transition to adulthood; fragmented service delivery across institutional and jurisdictional boundaries; restricted access due to guardian consent requirements
+
+Improving access requires moving from crisis response toward support that continues across life-course transitions.
+
+*This work was supported by the Korea Foundation for Suicide Prevention.*
